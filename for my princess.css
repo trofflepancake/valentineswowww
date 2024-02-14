@@ -1,0 +1,59 @@
+body {
+	background-color: #ebb2de;
+}
+
+img {
+	height: 150px;
+	align: center;
+}
+
+.gifowo {
+	width: 100%;
+	align-content: center;
+}
+
+h1 {
+	font-family: 'Single Day', cursive;
+	font-size: 50px;
+}
+
+.inline {
+	display: inline-block;
+	width: 100vw;
+	align-content: center;
+}
+
+.button {
+	display: inline-block;
+	border-radius: 1vw;
+	font-family: ;
+	text-color: white;
+	border: none;
+	width: 325px;
+	height: 125px;
+	font-size: 40px;
+	font-family: 'Kanit', sans-serif;
+}
+
+.button1 {
+	background-color: #14d914;
+	margin-right: 10px;
+}
+
+.button1:hover {
+	background-color: #0d9111;
+}
+
+.button2 {
+	background-color: #ed1d0e;
+	margin-left: 10px;
+}
+
+.button2:hover {
+	background-color: #7a120b;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
