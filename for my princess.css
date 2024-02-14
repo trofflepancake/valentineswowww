@@ -37,7 +37,6 @@ h1 {
 
 .button1 {
 	background-color: #14d914;
-	margin-right: 10px;
 }
 
 .button1:hover {
@@ -46,7 +45,6 @@ h1 {
 
 .button2 {
 	background-color: #ed1d0e;
-	margin-left: 10px;
 }
 
 .button2:hover {
